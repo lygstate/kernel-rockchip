@@ -4,7 +4,9 @@
 /insert-sys-cert
 /kallsyms
 /module.lds
+/mkkrnlimg
 /recordmcount
+/resource_tool
 /rustdoc_test_builder
 /rustdoc_test_gen
 /sign-file
